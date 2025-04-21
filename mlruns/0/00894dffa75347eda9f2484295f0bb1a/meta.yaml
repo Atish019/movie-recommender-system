@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/atish/Desktop/movie-recommender/mlruns/0/00894dffa75347eda9f2484295f0bb1a/artifacts
+end_time: 1745206095157
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 00894dffa75347eda9f2484295f0bb1a
+run_name: resilient-worm-954
+run_uuid: 00894dffa75347eda9f2484295f0bb1a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745206093425
+status: 3
+tags: []
+user_id: atish
