@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/atish/Desktop/movie-recommender/mlruns/0/ae2291879487400c9aeb9a251e401b95/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ae2291879487400c9aeb9a251e401b95
+run_name: luxuriant-robin-32
+run_uuid: ae2291879487400c9aeb9a251e401b95
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745205007644
+status: 1
+tags: []
+user_id: atish

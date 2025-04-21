@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/atish/Desktop/movie-recommender/mlruns/0/7ecc304f24a84ae2b6768791634f09b3/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7ecc304f24a84ae2b6768791634f09b3
+run_name: able-loon-146
+run_uuid: 7ecc304f24a84ae2b6768791634f09b3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745204984180
+status: 1
+tags: []
+user_id: atish

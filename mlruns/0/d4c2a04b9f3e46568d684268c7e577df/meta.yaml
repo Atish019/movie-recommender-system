@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/atish/Desktop/movie-recommender/mlruns/0/d4c2a04b9f3e46568d684268c7e577df/artifacts
+end_time: 1745205000362
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d4c2a04b9f3e46568d684268c7e577df
+run_name: entertaining-koi-157
+run_uuid: d4c2a04b9f3e46568d684268c7e577df
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745204998788
+status: 3
+tags: []
+user_id: atish

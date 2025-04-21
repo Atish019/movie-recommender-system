@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/atish/Desktop/movie-recommender/mlruns/0/c76500c1c8a543789a37e2f57c4b687d/artifacts
+end_time: 1745204961883
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c76500c1c8a543789a37e2f57c4b687d
+run_name: clumsy-flea-589
+run_uuid: c76500c1c8a543789a37e2f57c4b687d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745204959019
+status: 3
+tags: []
+user_id: atish
