@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/atish/Desktop/movie-recommender/mlruns/0/303ab817c0b14fc7a14d1411ac10f5c9/artifacts
+end_time: 1745206284760
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 303ab817c0b14fc7a14d1411ac10f5c9
+run_name: carefree-skunk-467
+run_uuid: 303ab817c0b14fc7a14d1411ac10f5c9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745206283106
+status: 3
+tags: []
+user_id: atish
