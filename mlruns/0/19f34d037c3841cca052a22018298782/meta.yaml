@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/atish/Desktop/movie-recommender/mlruns/0/19f34d037c3841cca052a22018298782/artifacts
+end_time: 1745213576922
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 19f34d037c3841cca052a22018298782
+run_name: defiant-fox-379
+run_uuid: 19f34d037c3841cca052a22018298782
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745213574170
+status: 3
+tags: []
+user_id: atish
